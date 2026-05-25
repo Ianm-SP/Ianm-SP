@@ -123,32 +123,6 @@ Estou comprometido com o aprendizado contínuo e acredito que cada desafio técn
 
 ---
 
-## 🗂️ Projetos
-
-> Em breve novos projetos serão adicionados aqui. Estou desenvolvendo minha base técnica e em breve publicarei os primeiros repositórios! ✨
-
----
-
-### 🔹 Projeto 1
-
-**Nome do projeto**
-
-> Breve descrição do que o projeto faz e qual problema ele resolve.
-
-![Tecnologia](https://img.shields.io/badge/Tecnologia-000000?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 🔹 Projeto 2
-
-**Nome do projeto**
-
-> Breve descrição do que o projeto faz e qual problema ele resolve.
-
-![Tecnologia](https://img.shields.io/badge/Tecnologia-000000?style=flat-square&logo=github&logoColor=white)
-
----
-
 ## 📬 Contato
 
 <div align="center">
