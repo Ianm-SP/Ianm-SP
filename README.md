@@ -101,48 +101,6 @@ Estou comprometido com o aprendizado contínuo e acredito que cada desafio técn
 
 ---
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-<img 
-  alt="Snake animation" 
-  src="https://raw.githubusercontent.com/Ianm-SP/Ianm-SP/output/github-contribution-grid-snake-dark.svg"
-/>
-
-</div>
-
-> 💡 *A animação da cobrinha aparece automaticamente conforme você for fazendo commits e contribuições.*
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=Ianm-SP&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" 
-  alt="Troféus do GitHub"
-/>
-
-</div>
-
----
-
-## 📈 Streak de Contribuições
-
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=Ianm-SP&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
-  alt="GitHub Streak"
-  height="180"
-/>
-
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
