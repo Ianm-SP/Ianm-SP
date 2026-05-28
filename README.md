@@ -111,7 +111,7 @@ Estou comprometido com o aprendizado contínuo e acredito que cada desafio técn
 
   <img 
     align="left" 
-    height="200"
+    width="48%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murilodemarco&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
