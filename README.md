@@ -12,104 +12,120 @@
 
 </div>
 
-Sou **Ian Gomes Fernandes**, estudante de **Ciência da Computação** na **UNIP Anchieta**, em São Paulo – SP.
+Sou **Ian Gomes Fernandes**, estudante de **Ciência da Computação** na **UNIP Anchieta**, em São Paulo – SP.  
 Apaixonado por tecnologia desde cedo, estou construindo minha base técnica com foco em desenvolvimento de software, lógica de programação e boas práticas de código.
 
 Atualmente estou em busca da minha **primeira oportunidade na área de TI** — seja como **estagiário**, **jovem aprendiz** ou qualquer posição que me permita crescer, aprender na prática e contribuir com um time de verdade. 🚀
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias & Ferramentas
+
+<div style="display: inline_block"><br>
 
 <img 
-    align="left" 
+    align="center" 
     alt="C#" 
     title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
+
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
-    align="left" 
+    align="center" 
     alt="HTML5" 
     title="HTML5"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
-    align="left" 
+    align="center" 
     alt="CSS3" 
     title="CSS3"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
-    align="left" 
+    align="center" 
     alt="Kotlin" 
     title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
+
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
-    align="left" 
+    align="center" 
     alt="GitHub" 
     title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-<br/>
+</div>
+
 <br/>
 
 ---
 
-## 📚 Atualmente estudando
+# 📊 Estatísticas
+
+<div align="center">
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=Ianm-SP&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
+/>
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianm-SP&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
+</div>
+
+---
+
+# 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=Ianm-SP&theme=chartreuse-dark&locale=pt_BR" 
+/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
 
 - 🧠 **Lógica de Programação** — pensamento algorítmico e resolução de problemas
 - 🌐 **Desenvolvimento Web** — HTML, CSS e estrutura de páginas
 - 🗂️ **Estruturas de Dados** — fundamentos essenciais para boas soluções
 - 🔀 **Versionamento com Git e GitHub** — controle de código e trabalho colaborativo
 - 💡 **Projetos Práticos** — aplicando o que aprendo em situações reais
-- 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Ianm-SP&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br"
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianm-SP&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</div>
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Objetivos
 
 Meu foco é desenvolver **experiência prática sólida**, transformando conhecimento teórico em soluções reais. Quero crescer dentro de um ambiente profissional, colaborar com equipes de tecnologia e contribuir ativamente para projetos que gerem impacto.
 
@@ -117,13 +133,24 @@ Estou comprometido com o aprendizado contínuo e acredito que cada desafio técn
 
 ---
 
+# 🐍 Contribuições
 
-## 📬 Contato
+<div align="center">
+
+![snake gif](https://github.com/Ianm-SP/Ianm-SP/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 📬 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian%20Gomes%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iangomesfernandes/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Meu%20Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ianm-SP)
+
 [![Gmail](https://img.shields.io/badge/Email-iangof08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iangof08@gmail.com)
 
 </div>
