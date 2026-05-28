@@ -90,6 +90,22 @@ Atualmente estou em busca da minha **primeira oportunidade na área de TI** — 
 - 🗂️ **Estruturas de Dados** — fundamentos essenciais para boas soluções
 - 🔀 **Versionamento com Git e GitHub** — controle de código e trabalho colaborativo
 - 💡 **Projetos Práticos** — aplicando o que aprendo em situações reais
+- 
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Ianm-SP&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br"
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianm-SP&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</div>
 
 ---
 
