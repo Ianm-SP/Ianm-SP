@@ -100,7 +100,23 @@ Meu foco é desenvolver **experiência prática sólida**, transformando conheci
 Estou comprometido com o aprendizado contínuo e acredito que cada desafio técnico é uma oportunidade de evoluir — tanto como desenvolvedor quanto como profissional.
 
 ---
+### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=murilodemarco&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+  />
+
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murilodemarco&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+  />
+</p>
+
+---
 ## 📬 Contato
 
 <div align="center">
