@@ -116,8 +116,6 @@ Estou comprometido com o aprendizado contínuo e acredito que cada desafio técn
 
 <div align="center">
 
-*"Tecnologia é aprendizado constante. Cada projeto é uma oportunidade de evoluir."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" />
 
 </div>
