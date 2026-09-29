@@ -72,6 +72,7 @@ Estudante de **Ciência da Computação** com foco em **desenvolvimento back-end
 ## 🌎 Idiomas
 
 - 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
 
 ---
 
