@@ -79,8 +79,8 @@ Estudante de **Ciência da Computação** com foco em **desenvolvimento de softw
 
 ## :earth_americas: Idiomas
 
-- :flag_br: Português — Nativo
-- :flag_us: Inglês — Intermediário
+- :brazil: Português — Nativo
+- :usa: Inglês — Intermediário
 
 ---
 
