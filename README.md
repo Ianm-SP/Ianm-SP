@@ -75,17 +75,6 @@ Estudante de **Ciência da Computação** com foco em **desenvolvimento de softw
 - :hourglass_flowing_sand: ADVPL + TL++ e Banco de Dados — **Udemy** *(em andamento)*
 - :hourglass_flowing_sand: Boas Práticas em ADVPL — **Udemy** *(em andamento)*
 
-<div align="center">
-
-<a href="https://www.udemy.com/courses/search/?q=advpl%20tl%2B%2B%20banco%20de%20dados">
-  <img src="https://img.shields.io/badge/Udemy-ADVPL%20%2B%20TL%2B%2B%20e%20Banco%20de%20Dados-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy - ADVPL + TL++ e Banco de Dados" />
-</a>
-<a href="https://www.udemy.com/courses/search/?q=advpl%20boas%20pr%C3%A1ticas">
-  <img src="https://img.shields.io/badge/Udemy-Boas%20Pr%C3%A1ticas%20em%20ADVPL-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy - Boas práticas em ADVPL" />
-</a>
-
-</div>
-
 ---
 
 ## :earth_americas: Idiomas
