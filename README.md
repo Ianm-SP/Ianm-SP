@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ian%20M.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20ADVPL%20%2F%20TOTVS%20Protheus&descAlignY=60&descSize=18" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ian%20M.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software&descAlignY=60&descSize=20" alt="Header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Ian+%F0%9F%91%8B;Desenvolvedor+ADVPL+%2F+TL%2B%2B;Integra%C3%A7%C3%B5es%2C+APIs+REST+e+SQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Ian+%F0%9F%91%8B;Desenvolvedor+de+Software;APIs+REST%2C+SQL+e+integra%C3%A7%C3%B5es;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -15,9 +15,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Desenvolvo e customizo no ecossistema **TOTVS Protheus** com **ADVPL / TL++**
-- 🌱 Estudando **boas práticas em ADVPL** na Udemy
-- 🔗 Foco em **integrações**, **APIs REST** e **banco de dados (SQL)**
+- 💻 Desenvolvedor de software com experiência em **ADVPL** e outras tecnologias
+- 🔗 Trabalho com **integrações**, **APIs REST** e **banco de dados (SQL)**
+- 🌱 Sempre estudando e buscando evoluir como desenvolvedor
 - 📍 São Paulo, Brasil 🇧🇷
 
 ---
@@ -27,9 +27,10 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/ADVPL-0C9AD6?style=for-the-badge" alt="ADVPL"/>
-<img src="https://img.shields.io/badge/TL++-1B5E8C?style=for-the-badge" alt="TL++"/>
-<img src="https://img.shields.io/badge/TOTVS%20Protheus-0C9AD6?style=for-the-badge" alt="TOTVS Protheus"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" alt="REST"/>
 
 <br/><br/>
@@ -40,7 +41,7 @@
 
 ---
 
-## 📚 Estudos: Boas Práticas em ADVPL
+## 📚 Boas Práticas em ADVPL (Udemy)
 
 <div align="center">
 
@@ -116,11 +117,11 @@ Return cNome
 
 ## 🎯 Metas
 
-- [x] Fundamentos de ADVPL
-- [x] Boas práticas em ADVPL (Udemy)
-- [ ] Migrar rotinas para **TL++** com orientação a objetos
-- [ ] Criar e consumir APIs REST no Protheus (`WsRestFul`)
-- [ ] Contribuir com projetos open source da comunidade TOTVS
+- [x] Aprender ADVPL
+- [x] Estudar boas práticas em ADVPL (Udemy)
+- [ ] Aprofundar em APIs REST e integrações
+- [ ] Aprender novas linguagens e frameworks
+- [ ] Contribuir com projetos open source
 
 ---
 
