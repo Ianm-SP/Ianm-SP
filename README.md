@@ -51,79 +51,6 @@
 
 </div>
 
-| Prática | Por quê |
-|---|---|
-| `Local` em todas as variáveis | Evita conflito de escopo; fugir de `Private` e `Public` |
-| Notação húngara (`cNome`, `nValor`, `dData`, `lOk`, `aLista`) | Tipo da variável claro na leitura |
-| Prefixo `U_` e nomes padronizados | Evita colisão com funções do Protheus |
-| `#Define` no lugar de números mágicos | Manutenção mais fácil |
-| `GetArea()` / `RestArea()` | Não perde o posicionamento das tabelas |
-| `Begin Sequence` / `TRY-CATCH` (TL++) | Sem falhas silenciosas |
-| `RecLock` sempre com `MsUnlock()` | Previne travamento de registros |
-| `BeginSQL` / `EndSQL` com `%table:%` | SQL seguro e portável |
-| `FWLogMsg` para logs | Rastreabilidade sem poluir o console |
-| `Protheus.doc` nas funções | Documentação padronizada |
-
-```advpl
-#Include "TOTVS.CH"
-
-/*/{Protheus.doc} U_BuscaCli
-Retorna o nome do cliente a partir do código e da loja.
-@type  User Function
-@param cCodigo, character, Código do cliente
-@param cLoja, character, Loja do cliente
-@return character, Nome do cliente ou vazio
-/*/
-User Function BuscaCli(cCodigo, cLoja)
-    Local aArea   := GetArea()
-    Local aAreaA1 := SA1->(GetArea())
-    Local cNome   := ""
-
-    Default cCodigo := ""
-    Default cLoja   := ""
-
-    DbSelectArea("SA1")
-    SA1->(DbSetOrder(1)) // A1_FILIAL + A1_COD + A1_LOJA
-
-    If SA1->(DbSeek(FWxFilial("SA1") + cCodigo + cLoja))
-        cNome := AllTrim(SA1->A1_NOME)
-    EndIf
-
-    RestArea(aAreaA1)
-    RestArea(aArea)
-Return cNome
-```
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ianm-SP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianm-SP&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ianm-SP&theme=tokyonight&hide_border=true" alt="Streak do GitHub"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ianm-SP&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" width="100%"/>
-
-</div>
-
----
-
-## 🎯 Metas
-
-- [x] Aprender ADVPL
-- [x] Estudar boas práticas em ADVPL (Udemy)
-- [ ] Aprofundar em APIs REST e integrações
-- [ ] Aprender novas linguagens e frameworks
-- [ ] Contribuir com projetos open source
-
----
 
 ## 📫 Contato
 
@@ -132,10 +59,10 @@ Return cNome
 <a href="https://github.com/Ianm-SP">
   <img src="https://img.shields.io/badge/GitHub-Ianm--SP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO">
+<a href="https://www.linkedin.com/in/iangomesfernandes/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:seu-email@exemplo.com">
+<a href="iangof08@gmail.com">
   <img src="https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
