@@ -1,95 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Ian%20Gomes%20Fernandes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20S%C3%A3o%20Paulo%20%E2%80%93%20SP&descSize=16&descAlignY=58&descColor=a0c4ff" alt="header" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ian%20Gomes%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=16)
 
-<a href="https://github.com/Ianm-SP">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software+em+forma%C3%A7%C3%A3o;Java+%7C+Python+%7C+C%23+%7C+ADVPL+%7C+SQL;PostgreSQL+%7C+SQLite;Em+busca+de+Est%C3%A1gio+ou+Jovem+Aprendiz+em+TI" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C9CFF&center=true&vCenter=true&width=620&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIP;Programador+em+forma%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+desenvolvimento+de+software)](https://git.io/typing-svg)
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/iangomesfernandes/"><img src="https://img.shields.io/badge/LinkedIn-Ian%20Gomes%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:iangof08@gmail.com"><img src="https://img.shields.io/badge/Email-iangof08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/iangomesfernandes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:iangof08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
 
 ---
 
-## :wave: Resumo profissional
+## 👋 Olá, eu sou o Ian!
 
-Estudante de **Ciência da Computação** com foco em **desenvolvimento de software** e **estruturação de dados**. Tenho conhecimento prático em **Java, Python, C#, ADVPL e SQL (PostgreSQL e SQLite)**, além de **HTML e CSS** para desenvolvimento front-end básico.
-
-:dart: Em busca de vaga de **Estágio** ou **Jovem Aprendiz em TI** para aplicar meus conhecimentos técnicos em projetos reais e evoluir profissionalmente em equipes de desenvolvimento de software.
+- 🎓 Cursando **Ciência da Computação na UNIP** (conclusão prevista em 2029)
+- 💻 Foco em **desenvolvimento de software e banco de dados**
+- 📚 Estudando agora: **C# + Banco de Dados e API**
+- 🎯 Em busca de um **estágio em desenvolvimento de software**, com interesse especial no ecossistema **TOTVS (ADVPL/Protheus)**
+- 📍 São Paulo, SP
 
 ---
 
-## :tools: Competências técnicas
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,cs,postgres,sqlite,html,css&perline=7" alt="Skills" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ADVPL-0C9AD6?style=for-the-badge" alt="ADVPL" />
-<img src="https://img.shields.io/badge/TL++-1B5E8C?style=for-the-badge" alt="TL++" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![ADVPL](https://img.shields.io/badge/ADVPL-0A5FB4?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-| Área | Tecnologias |
-| :-- | :-- |
-| :computer: **Linguagens** | Java, Python, C#, ADVPL, TL++ |
-| :file_cabinet: **Banco de dados** | SQL, PostgreSQL, SQLite |
-| :globe_with_meridians: **Web** | HTML, CSS |
-| :brain: **Fundamentos** | Lógica de programação e estruturação de dados |
-| :handshake: **Soft skills** | Trabalho em equipe e comunicação |
+---
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| **Medição com BMP280 + ESP32** | Projeto acadêmico (UNIP) de leitura de dados do sensor BMP280 com ESP32, feito em grupo | MicroPython, ESP32 |
+
+<!-- Adicione aqui seus outros projetos, por exemplo:
+| [nome-do-repo](https://github.com/Ianm-SP/nome-do-repo) | O que ele faz, em uma linha | C#, SQLite |
+-->
 
 ---
 
-## :briefcase: Experiência profissional
+## 📜 Certificações e cursos
 
-**Operador de Telecomunicações — SISCOM** *(Temporário)*
-:round_pushpin: São Bernardo do Campo, SP  |  :calendar_spiral: Jul/2026 – Atual
-
-- Atendimento e monitoramento de comunicações, com foco em organização, precisão e cumprimento de prazos
-- Desenvolvimento de habilidades de comunicação, trabalho em equipe e resolução de problemas em ambiente operacional
-
----
-
-## :mortar_board: Formação acadêmica
-
-- **Bacharelado em Ciência da Computação — Universidade Paulista (UNIP)**
-  :calendar_spiral: Jan/2026 – Dez/2030 *(em andamento)*
-  Atividades: Desenvolvimento de Software, Programação, Tecnologia, Desenvolvimento Web
-- **Ensino Médio — Externato Rio Branco**
-  :calendar_spiral: Jan/2023 – Nov/2025
+- **Fundamentos em Programação com Linguagem C#** — SENAI São Paulo (120h)
+- **C# + Banco de Dados e API** — Udemy (40h, em andamento)
+- **Python** — Alura (40h)
+- **Boas Práticas em ADVPL** — Udemy
+- **Boas Práticas para o Mercado de Trabalho** — SENAI São Paulo
 
 ---
 
-## :medal: Certificações
+## 🌎 Idiomas
 
-- :white_check_mark: Fundamentos em Programação com Linguagem C# — **SENAI São Paulo**
-- :white_check_mark: Boas Práticas para o Mercado de Trabalho — **SENAI São Paulo**
-- :hourglass_flowing_sand: C# + Banco de Dados e API — **Udemy** *(em andamento)*
-- :hourglass_flowing_sand: ADVPL + TL++ e Banco de Dados — **Udemy** *(em andamento)*
-- :hourglass_flowing_sand: Boas Práticas em ADVPL — **Udemy** *(em andamento)*
+🇧🇷 Português: nativo  ·  🇺🇸 Inglês: B2 (intermediário/avançado)
 
 ---
 
-## :earth_americas: Idiomas
-
-- :brazil: Português — Nativo
-- :usa: Inglês — Intermediário
-
----
-
-## :mailbox_with_mail: Contato
-
-:e_mail: [iangof08@gmail.com](mailto:iangof08@gmail.com)  |  :briefcase: [linkedin.com/in/iangomesfernandes](https://www.linkedin.com/in/iangomesfernandes/)
+## 📊 Estatísticas no GitHub
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" alt="footer" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ianm-SP&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianm-SP&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=Ianm-SP&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades de estágio e adoro trocar ideia sobre programação. Me chama no [LinkedIn](https://linkedin.com/in/iangomesfernandes) ou por e-mail: **iangof08@gmail.com**.
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
 
 </div>
