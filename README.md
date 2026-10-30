@@ -48,10 +48,6 @@
 | --- | --- | --- |
 | **Medição com BMP280 + ESP32** | Projeto acadêmico (UNIP) de leitura de dados do sensor BMP280 com ESP32, feito em grupo | MicroPython, ESP32 |
 
-<!-- Adicione aqui seus outros projetos, por exemplo:
-| [nome-do-repo](https://github.com/Ianm-SP/nome-do-repo) | O que ele faz, em uma linha | C#, SQLite |
--->
-
 ---
 
 ## 📜 Certificações e cursos
