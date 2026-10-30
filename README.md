@@ -42,15 +42,6 @@
 
 ---
 
-## 🚀 Projetos
-
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| **Medição com BMP280 + ESP32** | Projeto acadêmico (UNIP) de leitura de dados do sensor BMP280 com ESP32, feito em grupo | MicroPython, ESP32 |
-
-
----
-
 ## 📜 Certificações e cursos
 
 - **Fundamentos em Programação com Linguagem C#** — SENAI São Paulo (120h)
