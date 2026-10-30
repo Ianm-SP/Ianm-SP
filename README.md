@@ -28,7 +28,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![ADVPL](https://img.shields.io/badge/ADVPL-0A5FB4?style=for-the-badge)
+![ADVPL](https://img.shields.io/static/v1?label=&message=ADVPL&color=0A5FB4&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,6 +59,7 @@
 - **Fundamentos em Programação com Linguagem C#** — SENAI São Paulo (120h)
 - **C# + Banco de Dados e API** — Udemy (40h, em andamento)
 - **Python** — Alura (40h)
+- **Programando em ADVPL - Aprenda do Zero** — Udemy / RCTI Treinamentos (7,5h)
 - **Boas Práticas em ADVPL** — Udemy
 - **Boas Práticas para o Mercado de Trabalho** — SENAI São Paulo
 
@@ -73,9 +74,6 @@
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ianm-SP&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianm-SP&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=Ianm-SP&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
